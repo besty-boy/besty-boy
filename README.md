@@ -6,7 +6,7 @@ Je suis **Besty**, un jeune développeur web passionné et en constante apprenti
 ## 💻 Compétences techniques
 - **Frontend** : HTML, CSS, JavaScript
 - **Backend** : Node.js
-- **En apprentissage** : [Nouvelles technologies que tu apprends]
+- **En apprentissage** : React, talwind, Go-lang
 
 ## 🌟 À propos de Zcode
 Z-code est une association pour aider les développeurs à s'épanouir et à partager leurs connaissances. Nous offrons des services et du support via notre serveur Discord.
