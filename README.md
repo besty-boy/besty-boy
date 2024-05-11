@@ -9,8 +9,9 @@ Actuellement en études à EdenSchool
 
 ## 💻 Compétences techniques
 - **Frontend** : HTML, CSS, JavaScript
+- **Framework** : Astro.js, Express, Talwind
 - **Backend** : Node.js
-- **En apprentissage** : React, talwind, Go-lang
+- **En apprentissage** : React, Go-lang
 
 ## 🌟 À propos de Zcode
 Z-code est une association pour aider les développeurs à s'épanouir et à partager leurs connaissances. Nous offrons des services et du support via notre serveur Discord.
