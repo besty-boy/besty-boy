@@ -20,6 +20,7 @@ Z-code est une association pour aider les développeurs à s'épanouir et à par
 - [Bestyboy](https://bestyboy.fr) - Site Web Principal.
 - [Dev-Web](https://dev-web.bestyboy.fr) - Site Web, visant à faciliter l'apprentissage Front-end.
 - [Z-Code BDFD](https://www.youtube.com/@nettlebdfd) - Chaine Youtube, promouvant le langague BDFD.
+- [Z-Code](https://discord.gg/zcode) - Serveur discord
 
 ## 📬 Contact et Réseaux sociaux
 Pour me contacter, rejoignez-moi sur **Discord** -> **besty-boy** ou sur [Bestyboy](https://bestyboy.fr/support).
