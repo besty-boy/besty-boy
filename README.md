@@ -11,14 +11,14 @@ Actuellement en études à EdenSchool
 - **Frontend** : HTML, CSS, JavaScript
 - **Framework** : Astro.js, Express, Talwind
 - **Backend** : Node.js
-- **En apprentissage** : React, Go-lang
+- **En apprentissage** : React, Vite.js, TypeScript et Go-lang
 
 ## 🌟 À propos de Zcode
 Z-code est une association pour aider les développeurs à s'épanouir et à partager leurs connaissances. Nous offrons des services et du support via notre serveur Discord.
 
 ## 📚 Projets et Contributions
 - [Bestyboy](https://bestyboy.fr) - Site Web Principal.
-- [Dev-Web](https://dev-web.bestyboy.fr) - Site Web, visant à faciliter l'apprentissage Front-end.
+- [Dev-Web](https://dev-web.me) - Site Web, visant à faciliter l'apprentissage Front-end.
 - [Z-Code BDFD](https://www.youtube.com/@nettlebdfd) - Chaine Youtube, promouvant le langague BDFD.
 - [Z-Code](https://discord.gg/zcode) - Serveur discord
 
