@@ -2,7 +2,7 @@
 
 ## 👋 Introduction
 Je suis **Besty**, un jeune développeur web passionné et en constante apprentissage. 
-Fondateur de Spartacus (Bientot ouvert),
+Fondateur de NexDev (Bientot ouvert),
 Fondateur de [Dev Web](https://dev-web.me),
 
 
@@ -19,8 +19,8 @@ Fondateur de [Dev Web](https://dev-web.me),
 	•	Design : Blender, Figma, Sketch, Adobe XD, Canva, Photoshop, Cinema 4D.
 	•	Autres : SEO, Marketing Digital, Gestion de projet, Cybersécurité (Pentesting, OWASP, Kali Linux), Data Science (Pandas, NumPy, Matplotlib), Analyse de performances web (Lighthouse), Ai-learning
 
-## 🌟 À propos de Spartacus
-Spartacus est une association pour aider les développeurs à s'épanouir et à partager leurs connaissances. Nous offrons des services et du support via notre serveur Discord.
+## 🌟 À propos de NexDev
+NexDev est une association pour aider les développeurs à s'épanouir et à partager leurs connaissances. Nous offrons des services et du support via notre serveur Discord.
 
 ## 📚 Projets et Contributions
 - [Bestyboy](https://bestyboy.fr) - Site Web Principal.
