@@ -9,7 +9,7 @@ Fondateur de [Dev Web](https://dev-web.me),
 💻 Compétences techniques
 
 	•	Frontend : HTML, CSS, JavaScript, Vue.js, Angular, React.js, Svelte, TypeScript.
-	•	Framework : Astro.js, Express, Tailwind, Bootstrap, Laravel, three.js, Next.js, Nuxt.js, SASS/SCSS.
+	•	Framework : Astro.js, Express, Tailwind, Bootstrap, Laravel, three.js, Next.js, Nuxt.js, SASS/SCSS, Vite.js
 	•	Backend : Node.js, PHP, Python, Ruby, Java, assembly, Go-lang, ASP.NET, Rust, C#, Perl.
 	•	Langage-tempo : BDFD, Aoi.js, Scratch, Blockly, Code.org.
 	•	Base de données : MySQL, PostgreSQL, MongoDB, SQLite, Firebase, Redis, Cassandra.
