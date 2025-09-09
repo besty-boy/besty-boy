@@ -12,7 +12,7 @@
 
 Salut ! Je suis **Besty** 🧑‍💻, un développeur web passionné qui transforme des idées en expériences numériques extraordinaires !
 
-🌟 **Fondateur de NexDev** (Bientôt ouvert) - *L'association qui révolutionne l'apprentissage du développement*  
+🌟 **Fondateur de Z-Code** - *L'association qui révolutionne l'apprentissage du développement*  
 🚀 **Créateur de [Dev Web](https://dev-web.me)** - *Votre passerelle vers la maîtrise du Front-end*
 
 <div align="center">
@@ -69,7 +69,7 @@ Salut ! Je suis **Besty** 🧑‍💻, un développeur web passionné qui transf
   <img src="https://img.shields.io/badge/NexDev-Bientôt%20Ouvert-FF6B6B?style=for-the-badge&logo=discord&logoColor=white" alt="NexDev Badge" />
 </div>
 
-**NexDev** est bien plus qu'une simple association ! 🚀  
+**Z-Code** est bien plus qu'une simple association ! 🚀  
 C'est un écosystème complet dédié à l'épanouissement des développeurs de tous niveaux.
 
 ### 🎯 Notre Mission
@@ -95,7 +95,7 @@ C'est un écosystème complet dédié à l'épanouissement des développeurs de 
 <table align="center">
 <tr>
 <td align="center">
-  <a href="https://bestyboy.fr">
+  <a href="https://nex-dev.eu">
     <img src="https://img.shields.io/badge/🏠_Bestyboy-Site_Principal-4A90E2?style=for-the-badge&logo=globe&logoColor=white" alt="Bestyboy" />
   </a>
   <br />
@@ -120,7 +120,7 @@ C'est un écosystème complet dédié à l'épanouissement des développeurs de 
 <td align="center">
   <img src="https://img.shields.io/badge/🔜_Discord-Serveur_Communauté-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
   <br />
-  <sub><b>Bientôt disponible</b></sub>
+  <sub><b>[Invite !](https://discord.gg/h3uqD8exd8)</b></sub>
 </td>
 </tr>
 </table>
@@ -143,7 +143,7 @@ C'est un écosystème complet dédié à l'épanouissement des développeurs de 
   <a href="https://discord.gg/besty-boy">
     <img src="https://img.shields.io/badge/Discord-besty--boy-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA" alt="Discord" />
   </a>
-  <a href="https://bestyboy.fr/support">
+  <a href="https://nex-dev.eu">
     <img src="https://img.shields.io/badge/Support-bestyboy.fr-4A90E2?style=for-the-badge&logo=web&logoColor=white" alt="Support" />
   </a>
 </p>
