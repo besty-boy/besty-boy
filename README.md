@@ -12,7 +12,7 @@
 
 Salut ! Je suis **Besty** 🧑‍💻, un développeur web passionné qui transforme des idées en expériences numériques extraordinaires !
 
-🌟 **Fondateur de Z-Code** - *L'association qui révolutionne l'apprentissage du développement*  
+🌟 **Fondateur de [Z-Code](https://discord.gg/h3uqD8exd8)** - *L'association qui révolutionne l'apprentissage du développement*  
 🚀 **Créateur de [Dev Web](https://dev-web.me)** - *Votre passerelle vers la maîtrise du Front-end*
 
 <div align="center">
@@ -66,7 +66,7 @@ Salut ! Je suis **Besty** 🧑‍💻, un développeur web passionné qui transf
 ## 🌟 À propos de NexDev
 
 <div align="center">
-  <img src="https://img.shields.io/badge/NexDev-Bientôt%20Ouvert-FF6B6B?style=for-the-badge&logo=discord&logoColor=white" alt="NexDev Badge" />
+  <img src="https://img.shields.io/badge/Z-Code-here%20Ouvert-FF6B6B?style=for-the-badge&logo=discord&logoColor=white" alt="NexDev Badge" />
 </div>
 
 **Z-Code** est bien plus qu'une simple association ! 🚀  
