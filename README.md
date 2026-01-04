@@ -20,18 +20,11 @@
 <table>
   <tr>
     <td align="center" width="300">
-      <a href="https://discord.gg/h3uqD8exd8">
-        <img src="https://img.shields.io/badge/Z--CODE-ASSOCIATION-0d1117?style=for-the-badge&logo=discord&logoColor=00F0FF&labelColor=0d1117" />
-      </a>
-      <br/>
-      <sub>L'écosystème révolutionnaire</sub>
-    </td>
-    <td align="center" width="300">
-      <a href="https://dev-web.me">
+      <a href="https://besty.fr">
         <img src="https://img.shields.io/badge/DEV--WEB-LEARNING-0d1117?style=for-the-badge&logo=react&logoColor=00F0FF&labelColor=0d1117" />
       </a>
       <br/>
-      <sub>Maîtrise du Front-End</sub>
+      <sub>Blog</sub>
     </td>
   </tr>
 </table>
