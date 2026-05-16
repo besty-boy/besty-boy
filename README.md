@@ -1,44 +1,49 @@
-<div align="center">
+# Salut ! 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=INITIALIZING+SYSTEM...;WELCOME+TO+BESTY+PROTOCOL;BUILDING+THE+FUTURE." alt="Typing SVG" />
+[![Website](https://img.shields.io/badge/mon%20blog-besty.fr-000000?logo=safari&logoColor=white)](https://besty.fr)
+[![Twitter](https://img.shields.io/badge/twitter-@besty-1DA1F2?logo=twitter&logoColor=white)]([https://twitter.com/](https://x.com/Besty_boy23))
+[![LinkedIn](https://img.shields.io/badge/MySetup-Besty-0A66C2?logo=linkedin&logoColor=white)](https://mysetup.besty.fr/besty)
 
-<br/>
+Je suis Besty, développeur basé à Rennes 🇫🇷, passionné par l'écosystème Apple.  
+Je travaille à devenir développeur iOS — et pourquoi pas rejoindre Apple un jour.  
+Je partage mes projets et ma passion tech sur **[besty.fr](https://besty.fr)**.
 
-<p style="font-family: sans-serif; font-size: 1.1em; color: #8b949e;">
-  Architecte d'expériences numériques. Fondateur. Créateur.
-</p>
+---
 
-<br/>
+### 🧑‍💻 Langages
 
-<a href="https://github.com/besty-boy">
-  <img src="https://github-readme-stats.vercel.app/api?username=besty-boy&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=besty-boy&theme=algolia&hide_border=true&background=0d1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" height="150" alt="streak graph" />
-</a>
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)](https://swift.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://go.dev/)
+[![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 
-<br/><br/>
+---
 
-<table>
-  <tr>
-    <td align="center" width="300">
-      <a href="https://besty.fr">
-        <img src="https://img.shields.io/badge/DEV--WEB-LEARNING-0d1117?style=for-the-badge&logo=react&logoColor=00F0FF&labelColor=0d1117" />
-      </a>
-      <br/>
-      <sub>Blog</sub>
-    </td>
-  </tr>
-</table>
+### 📚 Frameworks & librairies
 
-<br/>
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://react.dev/)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?logo=apple&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-### ⚡ SYSTEM CORE
+---
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,python,docker,git,figma&theme=dark" alt="My Skills" />
+### 🛠️ Outils
 
-<br/><br/>
+[![JetBrains](https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white)](https://www.jetbrains.com/)
+[![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![Infomaniak](https://img.shields.io/badge/Infomaniak-0098FF?logo=infomaniak&logoColor=white)](https://www.infomaniak.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
 
-<a href="https://nex-dev.eu">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0d1117&logoColor=white" />
-</a>
+---
 
-</div>
+### 🖥️ OS
+
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)](https://www.apple.com/fr/macos/)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)](https://www.debian.org/)
+[![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)](https://www.apple.com/fr/ios/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://www.android.com/)
