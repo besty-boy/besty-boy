@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="36" viewBox="0 0 152 36" role="img" aria-label="Blog besty.fr">
+  <style>.sans{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif;}</style>
+  <rect x="0.5" y="0.5" width="151" height="35" rx="10" fill="#111827" stroke="#ffffff" stroke-opacity="0.14" stroke-width="1"/>
+  <circle cx="24" cy="18" r="7" fill="none" stroke="#38bdf8" stroke-width="1.4"/>
+  <ellipse cx="24" cy="18" rx="3.2" ry="7" fill="none" stroke="#38bdf8" stroke-width="1.2"/>
+  <line x1="17" y1="18" x2="31" y2="18" stroke="#38bdf8" stroke-width="1.2"/>
+  <text x="41" y="22" class="sans" font-size="12.5" font-weight="600" fill="#f1f5f9">besty.fr</text>
+  <text x="134" y="22" text-anchor="end" class="sans" font-size="12" fill="#64748b">↗</text>
+</svg>

@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="270" viewBox="0 0 880 270" role="img" aria-label="Stack technique de Besty : Langages, Frameworks, Outils et OS">
+  <defs>
+    <linearGradient id="cBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d121c"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'SF Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      @keyframes breathe {
+        0%, 100% { opacity: 0.95; }
+        50%      { opacity: 0.45; }
+      }
+      .b1 { animation: breathe 3.6s ease-in-out 0.0s infinite; }
+      .b2 { animation: breathe 3.6s ease-in-out 0.9s infinite; }
+      .b3 { animation: breathe 3.6s ease-in-out 1.8s infinite; }
+      .b4 { animation: breathe 3.6s ease-in-out 2.7s infinite; }
+    </style>
+  </defs>
+
+  <!-- 01 · LANGAGES -->
+  <g>
+    <rect x="0.5" y="0.5" width="429" height="125" rx="14" fill="url(#cBg)" stroke="#ffffff" stroke-opacity="0.09" stroke-width="1"/>
+    <circle class="b1" cx="22" cy="24" r="3.2" fill="#fa7343"/>
+    <text x="33" y="27.5" class="mono" font-size="10.5" font-weight="600" fill="#94a3b8" letter-spacing="1.1">01 · LANGAGES</text>
+
+    <!-- Row 1 -->
+    <!-- Swift (Primary highlighted) -->
+    <rect x="20" y="45" width="86" height="28" rx="8" fill="#fa7343" fill-opacity="0.16" stroke="#fa7343" stroke-opacity="0.48" stroke-width="1"/>
+    <circle cx="34" cy="59" r="3.5" fill="#fa7343"/>
+    <text x="45" y="63" class="sans" font-size="12" font-weight="600" fill="#ffedd5">Swift</text>
+
+    <!-- TypeScript -->
+    <rect x="114" y="45" width="116" height="28" rx="8" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1"/>
+    <circle cx="128" cy="59" r="3.5" fill="#3178c6"/>
+    <text x="139" y="63" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">TypeScript</text>
+
+    <!-- Go -->
+    <rect x="238" y="45" width="64" height="28" rx="8" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1"/>
+    <circle cx="252" cy="59" r="3.5" fill="#00add8"/>
+    <text x="263" y="63" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Go</text>
+
+    <!-- Rust -->
+    <rect x="310" y="45" width="76" height="28" rx="8" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1"/>
+    <circle cx="324" cy="59" r="3.5" fill="#f97316"/>
+    <text x="335" y="63" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Rust</text>
+
+    <!-- Row 2 -->
+    <!-- Python -->
+    <rect x="20" y="81" width="88" height="28" rx="8" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1"/>
+    <circle cx="34" cy="95" r="3.5" fill="#3776ab"/>
+    <text x="45" y="99" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Python</text>
+
+    <!-- PHP -->
+    <rect x="116" y="81" width="70" height="28" rx="8" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1"/>
+    <circle cx="130" cy="95" r="3.5" fill="#8892be"/>
+    <text x="141" y="99" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">PHP</text>
+  </g>
+
+  <!-- 02 · FRAMEWORKS & LIBRAIRIES -->
+  <g>
+    <rect x="450.5" y="0.5" width="429" height="125" rx="14" fill="url(#cBg)" stroke="#ffffff" stroke-opacity="0.09" stroke-width="1"/>
+    <circle class="b2" cx="472" cy="24" r="3.2" fill="#0a84ff"/>
+    <text x="483" y="27.5" class="mono" font-size="10.5" font-weight="600" fill="#94a3b8" letter-spacing="1.1">02 · FRAMEWORKS &amp; UI</text>
+
+    <!-- Row 1 -->
+    <!-- SwiftUI (Primary highlighted) -->
+    <rect x="470" y="45" width="94" height="28" rx="8" fill="#0a84ff" fill-opacity="0.16" stroke="#0a84ff" stroke-opacity="0.48" stroke-width="1"/>
+    <circle cx="484" cy="59" r="3.5" fill="#38bdf8"/>
+    <text x="495" y="63" class="sans" font-size="12" font-weight="600" fill="#e0f2fe">SwiftUI</text>
+
+    <!-- Next.js -->
+    <rect x="572" y="45" width="88" height="28" rx="8" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1"/>
+    <circle cx="586" cy="59" r="3.5" fill="#f8fafc"/>
+    <text x="597" y="63" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Next.js</text>
+
+    <!-- React -->
+    <rect x="668" y="45" width="82" height="28" rx="8" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1"/>
+    <circle cx="682" cy="59" r="3.5" fill="#61dafb"/>
+    <text x="693" y="63" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">React</text>
+
+    <!-- Node.js -->
+    <rect x="758" y="45" width="92" height="28" rx="8" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1"/>
+    <circle cx="772" cy="59" r="3.5" fill="#4ade80"/>
+    <text x="783" y="63" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Node.js</text>
+
+    <!-- Row 2 -->
+    <!-- Tailwind CSS -->
+    <rect x="470" y="81" width="128" height="28" rx="8" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1"/>
+    <circle cx="484" cy="95" r="3.5" fill="#38bdf8"/>
+    <text x="495" y="99" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Tailwind CSS</text>
+  </g>
+
+  <!-- 03 · OUTILS & INFRA -->
+  <g>
+    <rect x="0.5" y="144.5" width="429" height="125" rx="14" fill="url(#cBg)" stroke="#ffffff" stroke-opacity="0.09" stroke-width="1"/>
+    <circle class="b3" cx="22" cy="168" r="3.2" fill="#a78bfa"/>
+    <text x="33" y="171.5" class="mono" font-size="10.5" font-weight="600" fill="#94a3b8" letter-spacing="1.1">03 · OUTILS &amp; INFRA</text>
+
+    <!-- Row 1 -->
+    <!-- Xcode -->
+    <rect x="20" y="189" width="86" height="28" rx="8" fill="#147efb" fill-opacity="0.14" stroke="#147efb" stroke-opacity="0.40" stroke-width="1"/>
+    <circle cx="34" cy="203" r="3.5" fill="#38bdf8"/>
+    <text x="45" y="207" class="sans" font-size="12" font-weight="600" fill="#e0f2fe">Xcode</text>
+
+    <!-- JetBrains -->
+    <rect x="114" y="189" width="104" height="28" rx="8" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1"/>
+    <circle cx="128" cy="203" r="3.5" fill="#f43f5e"/>
+    <text x="139" y="207" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">JetBrains</text>
+
+    <!-- Git -->
+    <rect x="226" y="189" width="66" height="28" rx="8" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1"/>
+    <circle cx="240" cy="203" r="3.5" fill="#f05032"/>
+    <text x="251" y="207" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Git</text>
+
+    <!-- Vercel -->
+    <rect x="300" y="189" width="86" height="28" rx="8" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1"/>
+    <circle cx="314" cy="203" r="3.5" fill="#f8fafc"/>
+    <text x="325" y="207" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Vercel</text>
+
+    <!-- Row 2 -->
+    <!-- Infomaniak -->
+    <rect x="20" y="225" width="116" height="28" rx="8" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1"/>
+    <circle cx="34" cy="239" r="3.5" fill="#0098ff"/>
+    <text x="45" y="243" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Infomaniak</text>
+  </g>
+
+  <!-- 04 · SYSTÈMES -->
+  <g>
+    <rect x="450.5" y="144.5" width="429" height="125" rx="14" fill="url(#cBg)" stroke="#ffffff" stroke-opacity="0.09" stroke-width="1"/>
+    <circle class="b4" cx="472" cy="168" r="3.2" fill="#30d158"/>
+    <text x="483" y="171.5" class="mono" font-size="10.5" font-weight="600" fill="#94a3b8" letter-spacing="1.1">04 · SYSTÈMES</text>
+
+    <!-- Row 1 -->
+    <!-- macOS -->
+    <rect x="470" y="189" width="90" height="28" rx="8" fill="#ffffff" fill-opacity="0.075" stroke="#ffffff" stroke-opacity="0.18" stroke-width="1"/>
+    <circle cx="484" cy="203" r="3.5" fill="#e2e8f0"/>
+    <text x="495" y="207" class="sans" font-size="12" font-weight="600" fill="#f8fafc">macOS</text>
+
+    <!-- iOS -->
+    <rect x="568" y="189" width="70" height="28" rx="8" fill="#ffffff" fill-opacity="0.075" stroke="#ffffff" stroke-opacity="0.18" stroke-width="1"/>
+    <circle cx="582" cy="203" r="3.5" fill="#38bdf8"/>
+    <text x="593" y="207" class="sans" font-size="12" font-weight="600" fill="#f8fafc">iOS</text>
+
+    <!-- Debian -->
+    <rect x="646" y="189" width="90" height="28" rx="8" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1"/>
+    <circle cx="660" cy="203" r="3.5" fill="#e11d48"/>
+    <text x="671" y="207" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Debian</text>
+
+    <!-- Android -->
+    <rect x="744" y="189" width="96" height="28" rx="8" fill="#ffffff" fill-opacity="0.045" stroke="#ffffff" stroke-opacity="0.10" stroke-width="1"/>
+    <circle cx="758" cy="203" r="3.5" fill="#3ddc84"/>
+    <text x="769" y="207" class="sans" font-size="12" font-weight="500" fill="#e2e8f0">Android</text>
+
+    <!-- Row 2 subtle caption -->
+    <text x="472" y="242" class="mono" font-size="10.5" fill="#64748b">Daily driver : Apple Silicon · Native apps &amp; Linux servers</text>
+  </g>
+</svg>
